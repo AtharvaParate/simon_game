@@ -23,6 +23,8 @@ A fun and interactive memory-based game built using **HTML**, **CSS**, and **Jav
 ## 🚀 Getting Started
 ### Clone or Download the Repository
 To play or modify the game, clone the repository:
+Or Access Directly at : https://sensational-sundae-03d25e.netlify.app/
 
 ```bash
 git clone https://github.com/AtharvaParate/simon_game.git
+
